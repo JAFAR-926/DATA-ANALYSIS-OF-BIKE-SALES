@@ -1,3 +1,4 @@
+![Screenshot 2025-04-03 055803](https://github.com/user-attachments/assets/aa7e9961-839c-459f-a545-1fa7801879eb)
 # DATA-ANALYSIS-OF-BIKE-SALES
 # Bike Sales Data Analysis (2021-2022)  
 
